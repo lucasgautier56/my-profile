@@ -1,0 +1,57 @@
+h1 {
+	color: darkblue;
+font-size: 25px;
+font-family: Helvetica;
+}
+h2 {
+	color: orangered;
+font-size: 18px;
+font-family: Helvetica;
+}
+h3 {
+	color: orange;
+font-size: 13px;
+font-family: Helvetica;
+}
+h4 {
+	color: darkblue;
+font-size: 13px;
+font-family: Helvetica;
+}
+a {
+	font-size:25px ;
+}
+body { background-color: lightgrey;
+	text-align: center;
+ } 
+ <a href="https://www.linkedin.com/in/lucas-gautier-984630158">
+    <i class="fab fa-linkedin-in"> </i> Linkedin
+      </a></li>
+.img-circle{border-radius: 50%;
+}
+ #logo{
+	border-radius:  100%;
+ }
+ div{
+ 	background: darkgrey;
+ 	padding: 30px;
+ 	margin: 20px;
+ 	box-shadow: 30px;
+ 	border: 1px solid rgba(0, 0, 0, 1.0);
+ 	border-radius: 10px;
+ }
+img{
+	src="profile.jpg" class="img-circle"
+}
+#logo{
+	border-radius: 50%;
+}
+.white{
+	background: lightslategrey;
+}
+.fa-linkedin-in {background: slateblue;
+	color: black;
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+	line-height: 10px;
